@@ -1,6 +1,6 @@
-# Webpack Inicial
+# Lista de Tareas
 
-Este es el proyecto inicial para crear aplicaciones con webpack
+Esta es una aplicación sencilla de lista de tareas construida con javascript
 
 ### Notas:
 
