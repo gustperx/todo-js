@@ -2,6 +2,12 @@
 
 Esta es una aplicación sencilla de lista de tareas construida con javascript
 
+## Demo:
+
+```
+https://gustperx.github.io/todo-js/
+```
+
 ### Notas:
 
 Recuerden reconstruir los modulos de node
